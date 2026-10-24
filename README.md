@@ -7,7 +7,9 @@ I really enjoyed using the [Ploopy adept](https://ploopy.co/adept-trackball/) wi
 I basically tried to reverse engineer the [Anyball mod by Efog](https://github.com/adept-anyball/mod).
 Since I had a setup on the Adept which I really liked, I just wanted to rebuild it on the new and improved [A+](https://ploopy.co/aplus/).
 [My personal Adept build](https://github.com/Landy1368/Landy-s-mod) consisted of a 55mm ball, BTU's, some raised buttons and some aesthetic changes.
-My aim is to recreate something similar here and share the fruits of my labour with all of the great members of the Ploopy community
+My aim is to recreate something similar here and share the fruits of my labour with all of the great members of the Ploopy community.
+
+<u>Make sure to use some spacers when the fit is slightly off, this will depend on printer, fillement etc.<u> 
 
 ![Ploopy A+ BTU mod](Images/Ploopy%20A%2B%20BTU%20mod%20main%20repo%20v18.png)
 
@@ -17,3 +19,4 @@ I found that for my version of the BTU mod, the placement of the BTU's just slig
 ![Top side BTU housing cutout.png](Images/Top%20side%20BTU%20housing%20cutout.png)
 Similarly I had to make a small incision in two of the buttons to make room for the BTU housing as they go down upon being pressed. I use some raised buttons anyway, so I did not mind this small functional incision:
 ![Button cutout for BTU housing.png](Images/Button%20cutout%20for%20BTU%20housing.png)
+
