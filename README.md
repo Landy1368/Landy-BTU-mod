@@ -1,6 +1,6 @@
 # Landy's BTU-mod
 BTU mod for a 55mm ball, new sensor cover and raised buttons
-### 🚧 <u>Work in progress</u>
+### 🚧 <ins>Work in progress<ins>
 
 ## BTU mod for 55mm ball
 I really enjoyed using the [Ploopy adept](https://ploopy.co/adept-trackball/) with the rexroth BTU's.
@@ -9,7 +9,7 @@ Since I had a setup on the Adept which I really liked, I just wanted to rebuild 
 [My personal Adept build](https://github.com/Landy1368/Landy-s-mod) consisted of a 55mm ball, BTU's, some raised buttons and some aesthetic changes.
 My aim is to recreate something similar here and share the fruits of my labour with all of the great members of the Ploopy community.
 
-<u>Make sure to use some spacers when the fit is slightly off, this will depend on printer, fillement etc.</u> 
+<ins>Make sure to use some spacers when the fit is slightly off, this will depend on printer, fillement etc.<ins> 
 
 ![Ploopy A+ BTU mod](Images/Ploopy%20A%2B%20BTU%20mod%20main%20repo%20v18.png)
 
