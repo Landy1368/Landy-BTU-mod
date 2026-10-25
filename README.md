@@ -9,7 +9,9 @@ Since I had a setup on the Adept which I really liked, I just wanted to rebuild 
 [My personal Adept build](https://github.com/Landy1368/Landy-s-mod) consisted of a 55mm ball, BTU's, some raised buttons and some aesthetic changes.
 My aim is to recreate something similar here and share the fruits of my labour with all of the great members of the Ploopy community.
 
-<ins>Make sure to use some spacers when the fit is slightly off, this will depend on printer, fillement etc.<ins> 
+<ins>Make sure to use some spacers when the fit is slightly off, this will depend on printer, fillement etc.<ins>
+
+<ins>Supports only required<ins> on the sensor cover, since the overhang is quite steep
 
 ![Ploopy A+ BTU mod](Images/Ploopy%20A%2B%20BTU%20mod%20main%20repo%20v18.png)
 
